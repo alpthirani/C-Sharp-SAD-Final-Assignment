@@ -1,0 +1,26 @@
+C:\Users\demo\AppData\Local\Temporary Projects\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\demo\AppData\Local\Temporary Projects\Assignment\bin\Debug\Assignment.exe
+C:\Users\demo\AppData\Local\Temporary Projects\Assignment\bin\Debug\Assignment.pdb
+C:\Users\demo\AppData\Local\Temporary Projects\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\demo\AppData\Local\Temporary Projects\Assignment\obj\Debug\Assignment.splash.resources
+C:\Users\demo\AppData\Local\Temporary Projects\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\demo\AppData\Local\Temporary Projects\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
+C:\Users\demo\AppData\Local\Temporary Projects\Assignment\obj\Debug\Assignment.exe
+C:\Users\demo\AppData\Local\Temporary Projects\Assignment\obj\Debug\Assignment.pdb
+C:\Users\demo\Documents\Visual Studio 2012\Projects\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\demo\Documents\Visual Studio 2012\Projects\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\demo\Documents\Visual Studio 2012\Projects\Assignment\Assignment\obj\Debug\Assignment.pdb
+C:\Users\demo\Documents\Visual Studio 2012\Projects\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\demo\Documents\Visual Studio 2012\Projects\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\demo\Documents\Visual Studio 2012\Projects\Assignment\Assignment\obj\Debug\Assignment.Login.resources
+C:\Users\demo\Documents\Visual Studio 2012\Projects\Assignment\Assignment\obj\Debug\Assignment.Properties.Resources.resources
+C:\Users\demo\Documents\Visual Studio 2012\Projects\Assignment\Assignment\obj\Debug\Assignment.csproj.GenerateResource.Cache
+C:\Users\demo\Documents\Visual Studio 2012\Projects\Assignment\Assignment\obj\Debug\Assignment.main.resources
+C:\Users\demo\Documents\Visual Studio 2012\Projects\Assignment\Assignment\bin\Debug\Guna.UI.dll
+C:\Users\demo\Documents\Visual Studio 2012\Projects\Assignment\Assignment\obj\Debug\Assignment.Dashboard.resources
+C:\Users\demo\Documents\Visual Studio 2012\Projects\Assignment\Assignment\obj\Debug\Assignment.user.resources
+C:\Users\demo\Documents\Visual Studio 2012\Projects\Assignment\Assignment\obj\Debug\Assignment.Splash.resources
+C:\Users\demo\Documents\Visual Studio 2012\Projects\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Downloads\Ihzan\Assignment\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Ihzan\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\Lenovo\Downloads\Ihzan\Assignment\Assignment\obj\Debug\Assignment.pdb
