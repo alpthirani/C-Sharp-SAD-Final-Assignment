@@ -1,0 +1,6 @@
+F:\university\lecture note\1 year 3rd sem\oop c# assignment\Final assignment c#\Bookshop login and sign in\obj\Debug\Bookshop login and sign in.csproj.AssemblyReference.cache
+F:\university\lecture note\1 year 3rd sem\oop c# assignment\Final assignment c#\Bookshop login and sign in\obj\Debug\Bookshop_login_and_sign_in.Admin_login.resources
+F:\university\lecture note\1 year 3rd sem\oop c# assignment\Final assignment c#\Bookshop login and sign in\obj\Debug\Bookshop_login_and_sign_in.login.resources
+F:\university\lecture note\1 year 3rd sem\oop c# assignment\Final assignment c#\Bookshop login and sign in\obj\Debug\Bookshop_login_and_sign_in.Properties.Resources.resources
+F:\university\lecture note\1 year 3rd sem\oop c# assignment\Final assignment c#\Bookshop login and sign in\obj\Debug\Bookshop login and sign in.csproj.GenerateResource.cache
+F:\university\lecture note\1 year 3rd sem\oop c# assignment\Final assignment c#\Bookshop login and sign in\obj\Debug\Bookshop login and sign in.csproj.CoreCompileInputs.cache
